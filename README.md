@@ -3,6 +3,10 @@
 
 This project dynamically renders a set of cards based on JavaScript data using HTML, CSS, and vanilla JavaScript. It utilizes responsive design principles and a smooth hover effect for an interactive experience.
 
+## DEMO
+
+[Demo Link](https://daniel-fatbeehive.netlify.app/)
+
 ## Features
 
 - **Responsive Design**: The layout adjusts for different screen sizes.
