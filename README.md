@@ -88,7 +88,7 @@ This file contains responsive styles to ensure the layout is optimized for mobil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/syntaxPriest/fatbeehive-test.git
    ```
 
 2. Open the project in your favorite editor.
