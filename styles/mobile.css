@@ -1,0 +1,19 @@
+@media (max-width: 728px) {
+    .main-wrapper {
+        max-width: 100%;
+    }
+    .main-grid {
+        flex-direction: column;
+    }
+    .vertical-text {
+        writing-mode:horizontal-tb;
+        white-space: wrap;
+    }
+    .about-section {
+        display: grid;
+        gap: 20px;
+    }
+    .about-section > p {
+        width: 100%;
+    }
+}
