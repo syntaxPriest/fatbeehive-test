@@ -16,4 +16,9 @@
     .about-section > p {
         width: 100%;
     }
+    .styled-absolute-image {
+        bottom: -3rem;
+        right: 0;
+        width: 100%;
+    }
 }
